@@ -4,8 +4,11 @@ SBUP EduTrack is a light weight course tracking system to enable the academic de
 
 # 🛠 Tech Stack Used
 Component     |	Technology	         | Purpose
+
 Backend	      | Google Sheets        | Centralized data storage for all classes
+
 BI Tool	      | Power BI             | Visual dashboards and analysis
+
 Hosting       | Storage	Google Drive | Secure file storage and access
 
 # 📌 Current Features
