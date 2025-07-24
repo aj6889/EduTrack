@@ -2,6 +2,8 @@
 
 SBUP EduTrack is a light weight course tracking system to enable the academic department to track course progress across different classes and faculties. It uses a combination of Google Sheets as a data entry mechanism, and Power BI a visualization tool, where one can get instant insights on number of teaching hours consumed vs planned and number of subject hours covered vs planned across different classes and also teacher wise performance. System that guarantees a good detecting of assigned lecture hours and shows (with fill color and text) if more time is needed to be concrete to complete them.
 
+This project was made as per the requirement observed for the Academics Departent of Sri Balaji University, Pune and can be useful for others as well.
+
 # 🛠 Tech Stack Used
 Component     |	Technology	         | Purpose
 
